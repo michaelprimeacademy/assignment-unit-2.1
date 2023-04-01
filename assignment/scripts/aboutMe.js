@@ -125,9 +125,3 @@ switch (luckyNumber) {
 let isAdventurious =
   adventurous === true ? "Adventures are great!" : "How about we stay home?";
 console.log(isAdventurious);
-
-// if (adventurous === true) {
-//     console.log("Adventures are great!");
-//   } else {
-//     console.log("How about we stay home?");
-//   }
